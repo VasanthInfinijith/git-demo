@@ -34,3 +34,4 @@ console.log("hi vasanth")
 console.log("hi suresh")
 
 var name = "anitha";
+var name2="vasanth"
